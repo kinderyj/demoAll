@@ -1,6 +1,6 @@
 # demoAll
 
-## This project is the demo project for all kinds feature of python. 
+## This project is the demo utils for all kinds features in python. 
 
 > create a new repository on the command line
 
