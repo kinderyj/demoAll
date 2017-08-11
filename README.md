@@ -7,6 +7,13 @@
 http://blog.jobbole.com/21351/
 
 https://stackoverflow.com/documentation/python/229/decorators#t=2017080316552312411
+
+google python styleguide
+
+http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
+
+http://www.yeolar.com/note/2013/01/10/python-style-guide/
+
 > create a new repository on the command line
 
 echo "# demoAll" >> README.md
