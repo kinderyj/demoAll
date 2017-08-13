@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//demo/demoSubprocess/demo_subprocess.py=utf-8
+encoding//demo/demoThreading/__init__.py=utf-8
+encoding//demo/demoThreading/demoThreading_Rlock.py=utf-8
+encoding//demo/demoThreading/demoThreading_Thread.py=utf-8
+encoding//demo/demoThreading/demoThreading_join.py=UTF-8
+encoding//demo/demoThreading/demoThreading_setDeamonFalse.py=utf-8
+encoding//demo/demoThreading/demoThreading_setDeamonTrue.py=utf-8
