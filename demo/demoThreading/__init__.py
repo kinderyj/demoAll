@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
+http://www.cnblogs.com/tkqasn/p/5700281.html
 threading用于提供线程相关的操作，线程是应用程序中工作的最小单元。
 python当前版本的多线程库没有实现优先级、线程组，线程也不能被停止、暂停、恢复、中断。
 
