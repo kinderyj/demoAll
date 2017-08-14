@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
+encoding//demo/demoMajicMethod/__init__.py=utf-8
+encoding//demo/demoMajicMethod/demo__del__.py=utf-8
 encoding//demo/demoSubprocess/demo_subprocess.py=utf-8
 encoding//demo/demoThreading/__init__.py=utf-8
 encoding//demo/demoThreading/demoThreading_Rlock.py=utf-8
